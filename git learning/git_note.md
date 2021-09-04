@@ -172,8 +172,7 @@
     //同时也将origin来替代远程地址
 ```
 ~~Win的凭据管理器记住了密码~~
-SDFGSDFSFSDFSDFSDF
-为微软微软微软微软
+
 
 
 
